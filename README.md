@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ana Maria Carmen 
 - 👀 I’m interested in Environmental Monitoring Applications
-- 🌱 I’m currently learning 3D carbon modeling with Python
+- 🌱 I’m currently learning AI - Machine Learning 
 - 💞️ I’m looking to collaborate on Air Quality Monitoring 
 - 📫 You can reach me at anamcilie@gmail.com
 
